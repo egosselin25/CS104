@@ -1,2 +1,2 @@
-# my name is emily
-# CS104
+# Emily Gosselin
+CS104
